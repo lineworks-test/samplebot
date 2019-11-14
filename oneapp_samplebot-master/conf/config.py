@@ -21,7 +21,7 @@ PRIVATE_KEY_NAME = "private_20191114214854key"
 LOCAL_ADDRESS = "https:lineworks-sample-bot.herokuapp.com"
 
 # DB config
-DB_HOST = "10.106.151.241ec2-54-83-192-245.compute-1.amazonaws.com"
+DB_HOST = "ec2-54-83-192-245.compute-1.amazonaws.com
 DB_PORT = "5432"
 DB_NAME = "d5fmafk0444b7f"
 DB_USER = "cqbggjvngqijwy"
